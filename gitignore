@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# Bot state
+rsi_pro_state.json
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
