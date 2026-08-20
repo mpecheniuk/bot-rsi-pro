@@ -86,3 +86,4 @@ if __name__ == "__main__":
     print("=== RSI Pro Bot — Тест ===")
     send_test()
     show_current_values()
+
